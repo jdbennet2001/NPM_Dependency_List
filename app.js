@@ -6,8 +6,13 @@ var shell = require('shelljs');
 
 debugger;
 
+//Load both files
+var feb = jf.readFileSync('./results/february.json');
+var april = jf.readFileSync('./results/april.json');
+
 var packages = {};
-var project_root = "/Users/jdbennet/projects/micro-service";
+//var project_root = "/Users/jdbennet/projects/micro-service";
+var project_root = "/Users/jdbennet/projects/uServices";
 
 var projects = get_directories( project_root );
 
