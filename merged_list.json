@@ -9,34 +9,34 @@
     "name": "consolidate",
     "version": "0.10.0",
     "repository": "https://github.com/visionmedia/consolidate.js.git",
-    "previous_version": "----"
+    "previous_version": "0.10.0"
   },
   "dustjs-helpers": {
     "name": "dustjs-helpers",
     "version": "1.2.0",
     "license": "MIT",
     "repository": "https://github.com/linkedin/dustjs-helpers.git",
-    "previous_version": "----"
+    "previous_version": "1.2.0"
   },
   "dustjs-linkedin": {
     "name": "dustjs-linkedin",
     "version": "2.3.6",
     "license": "MIT",
     "repository": "https://github.com/linkedin/dustjs.git",
-    "previous_version": "----"
+    "previous_version": "2.3.6"
   },
   "express": {
     "name": "express",
     "version": "4.12.3",
     "license": "MIT",
     "repository": "https://github.com/strongloop/express",
-    "previous_version": "4.12.3"
+    "previous_version": "3.4.7"
   },
   "nconf": {
     "name": "nconf",
     "version": "0.7.1",
     "repository": "http://github.com/flatiron/nconf.git",
-    "previous_version": "----"
+    "previous_version": "0.7.1"
   },
   "node-dir": {
     "name": "node-dir",
@@ -55,7 +55,7 @@
     "version": "2.54.0",
     "license": "Apache-2.0",
     "repository": "https://github.com/request/request.git",
-    "previous_version": "2.55.0"
+    "previous_version": "2.53.0"
   },
   "jsonfile": {
     "name": "jsonfile",
@@ -68,32 +68,32 @@
     "version": "0.10.3",
     "license": "MIT",
     "repository": "git://github.com/defunctzombie/node-util",
-    "previous_version": "----"
+    "previous_version": "0.10.3"
   },
   "string": {
     "name": "string",
     "version": "3.1.1",
     "repository": "https://github.com/jprichardson/string.js",
-    "previous_version": "----"
+    "previous_version": "3.0.0"
   },
   "connect": {
     "name": "connect",
     "version": "1.9.2",
     "repository": "git://github.com/senchalabs/connect",
-    "previous_version": "1.9.2"
+    "previous_version": "2.12.0"
   },
   "commander": {
     "name": "commander",
     "version": "2.7.1",
     "license": "MIT",
     "repository": "https://github.com/tj/commander.js.git",
-    "previous_version": "2.7.1"
+    "previous_version": "1.3.2"
   },
   "qs": {
     "name": "qs",
     "version": "2.4.1",
     "repository": "https://github.com/hapijs/qs.git",
-    "previous_version": "2.4.1"
+    "previous_version": "2.3.3"
   },
   "formidable": {
     "name": "formidable",
@@ -160,7 +160,7 @@
     "version": "0.6.0",
     "license": "Apache-2.0",
     "repository": "https://github.com/mikeal/forever-agent",
-    "previous_version": "0.6.0"
+    "previous_version": "0.5.2"
   },
   "form-data": {
     "name": "form-data",
@@ -180,13 +180,13 @@
     "version": "2.0.10",
     "license": "MIT",
     "repository": "https://github.com/jshttp/mime-types",
-    "previous_version": "2.0.10"
+    "previous_version": "2.0.9"
   },
   "node-uuid": {
     "name": "node-uuid",
     "version": "1.4.3",
     "repository": "https://github.com/broofa/node-uuid.git",
-    "previous_version": "1.4.3"
+    "previous_version": "1.4.2"
   },
   "tunnel-agent": {
     "name": "tunnel-agent",
@@ -244,7 +244,7 @@
     "version": "0.1.2",
     "license": "MIT",
     "repository": "https://github.com/rvagg/isstream.git",
-    "previous_version": "0.1.2"
+    "previous_version": "0.1.1"
   },
   "har-validator": {
     "name": "har-validator",
@@ -293,7 +293,7 @@
     "version": "1.8.0",
     "license": "MIT",
     "repository": "https://github.com/jshttp/mime-db",
-    "previous_version": "1.8.0"
+    "previous_version": "1.7.0"
   },
   "punycode": {
     "name": "punycode",
@@ -324,13 +324,13 @@
     "name": "hoek",
     "version": "2.12.0",
     "repository": "git://github.com/hapijs/hoek",
-    "previous_version": "2.12.0"
+    "previous_version": "2.11.1"
   },
   "boom": {
     "name": "boom",
     "version": "2.6.1",
     "repository": "git://github.com/hapijs/boom",
-    "previous_version": "2.7.0"
+    "previous_version": "2.6.1"
   },
   "cryptiles": {
     "name": "cryptiles",
@@ -518,7 +518,7 @@
     "name": "debug",
     "version": "0.7.4",
     "repository": "git://github.com/visionmedia/debug.git",
-    "previous_version": "0.7.4"
+    "previous_version": "2.1.2"
   },
   "bytes": {
     "name": "bytes",
@@ -566,7 +566,7 @@
     "version": "1.6.1",
     "license": "MIT",
     "repository": "https://github.com/jshttp/type-is",
-    "previous_version": "1.6.1"
+    "previous_version": "1.6.0"
   },
   "ee-first": {
     "name": "ee-first",
@@ -628,7 +628,7 @@
     "name": "chokidar",
     "version": "1.0.0-rc5",
     "repository": "https://github.com/paulmillr/chokidar.git",
-    "previous_version": "1.0.0-rc5"
+    "previous_version": "1.0.0"
   },
   "cli": {
     "name": "cli",
@@ -690,7 +690,7 @@
     "version": "0.3.5",
     "license": "MIT",
     "repository": "https://github.com/pipobscure/fsevents.git",
-    "previous_version": "0.3.5"
+    "previous_version": "----"
   },
   "arr-diff": {
     "name": "arr-diff",
@@ -736,7 +736,7 @@
     "name": "array-slice",
     "version": "0.2.2",
     "repository": "git://github.com/jonschlinkert/array-slice.git",
-    "previous_version": "0.2.2"
+    "previous_version": "0.2.3"
   },
   "expand-range": {
     "name": "expand-range",
@@ -776,7 +776,7 @@
       "url": "https://github.com/jonschlinkert/fill-range/blob/master/LICENSE"
     },
     "repository": "git://github.com/jonschlinkert/fill-range.git",
-    "previous_version": "2.2.0"
+    "previous_version": "2.2.2"
   },
   "is-number": {
     "name": "is-number",
@@ -1103,7 +1103,7 @@
     "version": "1.2.3",
     "license": "BSD",
     "repository": "git://github.com/isaacs/node-graceful-fs.git",
-    "previous_version": "2.0.3"
+    "previous_version": "1.2.3"
   },
   "nan": {
     "name": "nan",
@@ -1348,7 +1348,7 @@
     "name": "browser-sync-ui",
     "version": "0.5.2",
     "repository": "https://github.com/shakyshane/browser-sync-ui",
-    "previous_version": "0.5.3"
+    "previous_version": "0.5.6"
   },
   "dev-ip": {
     "name": "dev-ip",
@@ -2024,7 +2024,7 @@
     "version": "1.12.2",
     "license": "MIT",
     "repository": "https://github.com/expressjs/body-parser",
-    "previous_version": "1.12.2"
+    "previous_version": "1.12.0"
   },
   "cfenv": {
     "name": "cfenv",
@@ -2143,7 +2143,7 @@
       "url": "https://github.com/isaacs/rimraf/raw/master/LICENSE"
     },
     "repository": "git://github.com/isaacs/rimraf.git",
-    "previous_version": "2.2.8"
+    "previous_version": "2.1.4"
   },
   "base64-js": {
     "name": "base64-js",
@@ -2177,21 +2177,21 @@
     "version": "1.0.2",
     "license": "MIT",
     "repository": "https://github.com/sindresorhus/default-browser-id",
-    "previous_version": "1.0.2"
+    "previous_version": "----"
   },
   "bplist-parser": {
     "name": "bplist-parser",
     "version": "0.0.6",
     "license": "MIT",
     "repository": "https://github.com/nearinfinity/node-bplist-parser.git",
-    "previous_version": "0.0.6"
+    "previous_version": "----"
   },
   "untildify": {
     "name": "untildify",
     "version": "1.0.0",
     "license": "MIT",
     "repository": "https://github.com/sindresorhus/untildify",
-    "previous_version": "1.0.0"
+    "previous_version": "----"
   },
   "node-pre-gyp": {
     "name": "node-pre-gyp",
@@ -2310,26 +2310,26 @@
     "name": "exec",
     "version": "0.2.0",
     "repository": "https://github.com/bahamas10/node-exec.git",
-    "previous_version": "----"
+    "previous_version": "0.2.0"
   },
   "shelljs": {
     "name": "shelljs",
     "version": "0.3.0",
     "license": "BSD*",
     "repository": "git://github.com/arturadib/shelljs.git",
-    "previous_version": "----"
+    "previous_version": "0.3.0"
   },
   "execSync": {
     "name": "execSync",
     "version": "1.0.2",
     "license": "MIT",
     "repository": "https://github.com/mgutz/execSync.git",
-    "previous_version": "----"
+    "previous_version": "1.0.2"
   },
   "temp": {
     "name": "temp",
     "version": "0.5.1",
     "repository": "git://github.com/bruce/node-temp.git",
-    "previous_version": "----"
+    "previous_version": "0.5.1"
   }
 }
