@@ -9,20 +9,22 @@ var feb = jf.readFileSync('./results/february.json');
 var april = jf.readFileSync('./results/april.json');
 
 var packages = {};
-//var project_root = "/Users/jdbennet/projects/micro-service";
-var project_root = 'C:/projects/micro-services';
+var project_root = "/Users/jonbennett/projects/uService";
+//var project_root = 'C:/projects/micro-services';
 
 var projects = get_directories( project_root );
 
 //Generate the dependency list for each package
 var root = process.cwd();
 projects.forEach( function( project ){
+	debugger;
 	generate_ll_json_list( root, project );
 });
 
 
 //Read the list of json files
 projects.forEach( function( project ){
+	debugger;
 	var file = project + '/ll.json';
 	var contents = jf.readFileSync(file);
 	traverse_json( contents );
@@ -56,11 +58,11 @@ console.log( 'Complete...');
 function walk_json( object ){
 
 	for ( var i in object ){
-		
+
 		if ( i ==  'dependencies'){
 			process_dependencies(object.dependencies);
 		}
-		
+
 		walk_json( object[i] );
 	}
 }
@@ -106,7 +108,7 @@ function generate_ll_json_list( root, project ){
 	shell.cd (root);
 }
 
-/** 
+/**
  Find all projects in a given directory
  **/
 function get_directories( path ){
@@ -126,4 +128,3 @@ function get_directories( path ){
 
 	return directories;
 }
-

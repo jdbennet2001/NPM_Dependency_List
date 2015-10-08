@@ -13,7 +13,8 @@
   "dependencies": {
     "jsonfile": "*",
     "traverse": "*",
-    "shelljs": "*"
+    "shelljs": "*",
+    "promise": "^7.0.1"
   },
   "author": "Jon Bennett",
   "license": "-",
